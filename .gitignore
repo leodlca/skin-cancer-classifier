@@ -1,0 +1,7 @@
+.DS_Store
+data/
+.ipynb_checkpoints/
+ham10000/
+.vscode
+saved_models/
+features/
